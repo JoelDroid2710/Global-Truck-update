@@ -1,5 +1,5 @@
 {
-  "fnmods_update": [
+  "global Truck_update": [
     {
  "version":"0.0.38",
  "title":"Update Disponible",
